@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://app.seancoughlin.me/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://app.seancoughlin.me/compoundsolver/index.html</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://app.seancoughlin.me/compoundsolver/privacy.html</loc>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://app.seancoughlin.me/compoundsolver/</loc>
+        <changefreq>daily</changefreq>
+    </url>
+</urlset>
